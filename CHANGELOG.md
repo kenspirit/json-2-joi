@@ -1,3 +1,7 @@
+### 3.0.2
+
+- Fix issue that if schema does not have type but with allOf/anyOf/oneOf/not schema, allow null should not set in outer scope
+
 ### 3.0.1
 
 - Fix issue that inner `additionalProperties` setting cannot override outer option
