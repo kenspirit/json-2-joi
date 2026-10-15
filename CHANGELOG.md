@@ -1,3 +1,7 @@
+### 4.1.0
+
+- Change license to MIT
+
 ### 4.0.0
 
 - Upgrade joi from 17 to 18 to fix security issues
