@@ -1,3 +1,7 @@
+### 4.0.0
+
+- Upgrade joi from 17 to 18 to fix security issues
+
 ### 3.0.2
 
 - Fix issue that if schema does not have type but with allOf/anyOf/oneOf/not schema, allow null should not set in outer scope

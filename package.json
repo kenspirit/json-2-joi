@@ -1,6 +1,6 @@
 {
   "name": "json-2-joi",
-  "version": "3.0.2",
+  "version": "4.0.0",
   "license": "Apache 2.0",
   "description": "Converts json-schema to Joi schema. (Enhanced enjoi)",
   "main": "./index.js",
@@ -36,13 +36,13 @@
     "debug": "^4.3.5"
   },
   "peerDependencies": {
-    "joi": "^17.13.3"
+    "joi": "^18.2.9"
   },
   "devDependencies": {
     "@eslint/js": "^9.6.0",
     "eslint": "^9.6.0",
     "globals": "^15.7.0",
-    "joi": "^17.13.3",
+    "joi": "^18.2.9",
     "nyc": "^17.0.0",
     "tape": "^5.8.1"
   },
